@@ -9,7 +9,7 @@ using namespace std;
 //0:bicg法の実装に必要そうなobject
 
 //1:bicg法による行列解法のglobalな関数 (正味これだけでもええかも)
-//LU分解はmatrix.hppに実装してます.わかんないところがあれば藤野まで
+//LU分解はmatrix.hppに実装してます.わかんないところがあれば藤野までお願いします
 
 //以下classの宣言 設計部分
 
